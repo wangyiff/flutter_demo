@@ -1,0 +1,52 @@
+{
+  "product": [
+    {
+      "detailUrl": "https://baike.baidu.com/item/ZTZ-96%E4%B8%BB%E6%88%98%E5%9D%A6%E5%85%8B/18013374?fr=aladdin",
+      "thumb": "https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=2225e83fa30f4bfb98dd960662261395/5ab5c9ea15ce36d3751e04903df33a87e950b17c.jpg",
+      "money": "$26666666",
+      "title": "Type 96 Main Battle Tank"
+    },
+    {
+      "detailUrl": "https://baike.baidu.com/item/%E7%9B%B4-20/12720596?fromtitle=%E7%9B%B420&fromid=12741154&fr=aladdin",
+      "thumb": "https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=43544eabdd58ccbf0fb1bd6878b1d75b/c2fdfc039245d68824b555bda8c27d1ed21b2470.jpg",
+      "money": "$29999999",
+      "title": "Harbin Z-20"
+    },
+    {
+      "detailUrl": "https://baike.baidu.com/item/%E6%AD%BC-20/1555348?fromtitle=%E6%AD%BC20&fromid=1838467&fr=aladdin",
+      "thumb": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570278181750&di=82b09dacf70ff036703108c49b854186&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn10%2F100%2Fw1600h900%2F20180812%2F59d3-hhqtawx2090562.jpg",
+      "money": "$59999999",
+      "title": "Chengdu J-20"
+    },
+    {
+      "detailUrl": "https://baike.baidu.com/item/%E4%B8%9C%E9%A3%8E-41%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9/18356768?fromtitle=%E4%B8%9C%E9%A3%8E41&fromid=23782591&fr=aladdin",
+      "thumb": "https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=dc1178000555b3199cf985737b92e51b/55e736d12f2eb938e8824ef3da628535e4dd6fc7.jpg",
+      "money": "$69999999",
+      "title": "DF-41"
+    },
+    {
+      "detailUrl": "https://baike.baidu.com/item/%E8%BE%BD%E5%AE%81%E5%8F%B7%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0/2967867?fromtitle=%E8%BE%BD%E5%AE%81%E8%88%B0&fromid=11280935&fr=aladdin",
+      "thumb": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570277843718&di=4740636830e011b7d4a22633ba5370b5&imgtype=0&src=http%3A%2F%2Fp0.ifengimg.com%2Fcmpp%2F2016%2F09%2F29%2F09%2Fd9ed0b33-e81e-461e-90c9-649e4ce982e5_size55_w600_h424.jpg",
+      "money": "$89999999",
+      "title": "Chinese aircraft carrier Liaoning"
+    }
+  ],
+  "banner": [
+    {
+      "detailUrl": "https://www.baidu.com",
+      "imgUrl": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4254882314,3352371692&fm=26&gp=0.jpg"
+    },
+    {
+      "detailUrl": "https://www.baidu.com",
+      "imgUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=4127845899,1281811900&fm=26&gp=0.jpg"
+    },
+    {
+      "detailUrl": "https://www.baidu.com",
+      "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570292123271&di=98631c85304c71ddd49a9dffc50e8fe9&imgtype=0&src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1509%2F03%2Fc5%2F12109397_12109397_1441266965320_mthumb.jpg"
+    },
+    {
+      "detailUrl": "https://www.baidu.com",
+      "imgUrl": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1768552099,16470025&fm=26&gp=0.jpg"
+    }
+  ]
+}
